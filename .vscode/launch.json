@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "B",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
+            "name": "ExecuteAccountD",
+            "request": "launch",
+            "mainClass": "ExecuteAccountD",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
+            "name": "Fib",
+            "request": "launch",
+            "mainClass": "Fib",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
+            "name": "Quad",
+            "request": "launch",
+            "mainClass": "Quad",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
+            "name": "Simple",
+            "request": "launch",
+            "mainClass": "Simple",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
+            "name": "SortNumber",
+            "request": "launch",
+            "mainClass": "SortNumber",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
+            "name": "StingDemo",
+            "request": "launch",
+            "mainClass": "StingDemo",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
+            "name": "TwoDAgain",
+            "request": "launch",
+            "mainClass": "TwoDAgain",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        }
+    ]
+}
