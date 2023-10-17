@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfInt",
+            "request": "launch",
+            "mainClass": "SumOfInt",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
+            "name": "StringToken",
+            "request": "launch",
+            "mainClass": "StringToken",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
             "name": "InsertDemo",
             "request": "launch",
             "mainClass": "InsertDemo",
