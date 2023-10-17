@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InsertDemo",
+            "request": "launch",
+            "mainClass": "InsertDemo",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
             "name": "appendDemo",
             "request": "launch",
             "mainClass": "appendDemo",
