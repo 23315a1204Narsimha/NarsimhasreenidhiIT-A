@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Multiple",
+            "request": "launch",
+            "mainClass": "Multiple",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
             "name": "SumOfInt",
             "request": "launch",
             "mainClass": "SumOfInt",
