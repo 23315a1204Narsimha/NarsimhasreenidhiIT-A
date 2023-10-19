@@ -1,29 +1,30 @@
-interface Z
+interface X
 {
-    int a=10;
-    public void displaya();
+public int a=10;
+public void showa();
 }
 interface Y
 {
-    int b=20;
-    public void displayb();
+public int b=20;
+public void showb();
 }
-class C implements Z,Y
+class A implements X,Y
 {
-    public void displaya()
-    {
-        System.out.println("a is:"+a);
-    }
-    public void displayb()
-    {
-        System.out.println("B is:"+b);
-    }
+public void showa()
+{
+System.out.println("a is:"+a);
 }
-public class Multiple
+public void showb()
 {
-    public static void main(String[] args) {
-        C c=new C();
-        c.displaya();
-        c.displayb();
-    }
+System.out.println("b is:"+b);
+}
+}
+class Multiple
+{
+public static void main(String args[])
+{
+A ma=new A();
+ma.showa();
+ma.showb();
+}
 }
