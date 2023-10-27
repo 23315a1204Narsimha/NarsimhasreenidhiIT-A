@@ -1,2 +1,1 @@
-# NarsimhasreenidhiIT-A
-R.Narsimha SNIST
+This is Narsimha's(Bunny@Abhi) Snist github
