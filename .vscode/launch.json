@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TreeSetDemo",
+            "request": "launch",
+            "mainClass": "TreeSetDemo",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
             "name": "HashSetDemo",
             "request": "launch",
             "mainClass": "HashSetDemo",
