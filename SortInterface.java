@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.*;
 class ArrayListD
 {
@@ -17,3 +18,10 @@ al.add("2");
 System.out.println(al);
 }
 }
+=======
+package sortapp;
+public interface SortInterface
+{
+public void sort();
+}
+>>>>>>> d8a3b8392c239786f00d097634b4fdbb6f95f660
