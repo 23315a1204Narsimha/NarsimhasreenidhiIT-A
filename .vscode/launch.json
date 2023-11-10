@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedListD",
+            "request": "launch",
+            "mainClass": "LinkedListD",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
             "name": "ListEx",
             "request": "launch",
             "mainClass": "ListEx",
