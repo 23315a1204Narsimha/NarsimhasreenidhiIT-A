@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ListEx",
+            "request": "launch",
+            "mainClass": "ListEx",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
             "name": "ArrayListToArrayD",
             "request": "launch",
             "mainClass": "ArrayListToArrayD",
