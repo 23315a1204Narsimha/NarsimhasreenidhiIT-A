@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayListD",
+            "request": "launch",
+            "mainClass": "ArrayListD",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
             "name": "StrPalindrome",
             "request": "launch",
             "mainClass": "StrPalindrome",
