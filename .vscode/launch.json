@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayListToArrayD",
+            "request": "launch",
+            "mainClass": "ArrayListToArrayD",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
             "name": "ArrayListD",
             "request": "launch",
             "mainClass": "ArrayListD",
