@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HashSetD",
+            "request": "launch",
+            "mainClass": "HashSetD",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
             "name": "LinkedListD",
             "request": "launch",
             "mainClass": "LinkedListD",
