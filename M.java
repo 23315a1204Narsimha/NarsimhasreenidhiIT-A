@@ -1,6 +1,6 @@
 import java.io.*;  
       
-    class C2{  
+    class M{  
     public static void main(String args[]) throws Exception
     { 
     FileInputStream fin=new FileInputStream("/SNISTprogramsofjava/C2.java");
