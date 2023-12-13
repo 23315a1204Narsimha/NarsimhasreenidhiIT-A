@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ap",
+            "request": "launch",
+            "mainClass": "Ap",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
+            "name": "Aa",
+            "request": "launch",
+            "mainClass": "Aa",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
             "name": "ThreadDemo",
             "request": "launch",
             "mainClass": "ThreadDemo",
