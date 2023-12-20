@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Polygon8p",
+            "request": "launch",
+            "mainClass": "Polygon8p",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
             "name": "Draw",
             "request": "launch",
             "mainClass": "Draw",
