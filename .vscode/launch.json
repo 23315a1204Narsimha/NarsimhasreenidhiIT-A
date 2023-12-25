@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LabelDemo",
+            "request": "launch",
+            "mainClass": "LabelDemo",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
+            "name": "Gui",
+            "request": "launch",
+            "mainClass": "Gui",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
             "name": "Polygon8p",
             "request": "launch",
             "mainClass": "Polygon8p",
