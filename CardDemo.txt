@@ -1,0 +1,17 @@
+import java.awt.*;
+import java.awt.event.*;
+class CardDemo extens Frame implements ActionListener,MouseListener
+{
+Checkbox winXP,winVista,solaris,mac;
+Panel osCards;
+CardLayout cardLO;
+Button Win,Other;
+CardDemo()
+{
+setLayout(new BoderLayout());
+Panel tabs=new Panel();
+Win=new Button("Windows");
+other=new Button("Others");
+tabs.add(Win);
+tabs.add(Other);
+CardLayout card
