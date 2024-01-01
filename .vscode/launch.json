@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BorderDemo",
+            "request": "launch",
+            "mainClass": "BorderDemo",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
             "name": "DrawDemo",
             "request": "launch",
             "mainClass": "DrawDemo",
