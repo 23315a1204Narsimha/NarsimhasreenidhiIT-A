@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MouseEvents",
+            "request": "launch",
+            "mainClass": "MouseEvents",
+            "projectName": "NarsimhasreenidhiIT-A_f3829ad5"
+        },
+        {
+            "type": "java",
             "name": "LabelDemo",
             "request": "launch",
             "mainClass": "LabelDemo",
